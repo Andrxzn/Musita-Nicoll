@@ -20,7 +20,7 @@ document.getElementById('siBtn').addEventListener('click', function() {
 
     // Mostrar el mensaje específico
     document.getElementById('messageContainer').style.display = 'block';
-    document.getElementById('messageContainer').innerHTML = '¡ESOOOOOO! Te amo mucho mi princesita <3';
+    document.getElementById('messageContainer').innerHTML = '¡ESOOOOOO! Sabía que dirías que sí jiji, te mando un besote mi princesita <3';
 
     // Mostrar otro gif después de 3 segundos
     setTimeout(function() {
@@ -261,4 +261,5 @@ document.getElementById('noBtn').addEventListener('click', function() {
             break;
     }
 });
+
 
